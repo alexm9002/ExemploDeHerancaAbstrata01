@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alex\\.nuget\\packages\\": {}
+    "C:\\Users\\Note Alex\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AAA - Visual Studio\\Heranca\\Heranca\\Heranca.csproj",
-      "projectName": "Heranca",
-      "projectPath": "D:\\AAA - Visual Studio\\Heranca\\Heranca\\Heranca.csproj",
-      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "D:\\AAA - Visual Studio\\Heranca\\Heranca\\obj\\",
+      "projectUniqueName": "G:\\Visual Studio\\Heranca\\Heranca\\HerancaAbstrata.csproj",
+      "projectName": "HerancaAbstrata",
+      "projectPath": "G:\\Visual Studio\\Heranca\\Heranca\\HerancaAbstrata.csproj",
+      "packagesPath": "C:\\Users\\Note Alex\\.nuget\\packages\\",
+      "outputPath": "G:\\Visual Studio\\Heranca\\Heranca\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Note Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

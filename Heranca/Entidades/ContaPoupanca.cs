@@ -1,4 +1,4 @@
-﻿namespace Heranca.Entidades {
+﻿namespace HerancaAbstrata.Entidades {
     // Subclasse ContaPoupanca herda campos da superclasse conta.
     internal class ContaPoupanca : Conta {
         public double TaxadeJuros { get; set; }
@@ -23,9 +23,9 @@
         // Ou seja, Foi descontado R$ 5,00 no método principal da classe "Conta"
         // e foi retornado R$ 5,00 na implementação da classe "ContaPoupanca" == Total R$ 0,00 desconto. 
         // Usando a implementação "base".
-        public override void Saque(double quantia) {
-            base.Saque(quantia);
-            Saldo += 5.0;
-        }
+        //public override void Saque(double quantia) {
+         //   base.Saque(quantia);
+         //   Saldo += 5.0;
+       // }
     }
 }

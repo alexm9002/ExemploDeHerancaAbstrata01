@@ -13,3 +13,18 @@ D:\AAA - Visual Studio\Heranca\Heranca\obj\Debug\net6.0\Heranca.dll
 D:\AAA - Visual Studio\Heranca\Heranca\obj\Debug\net6.0\ref\Heranca.dll
 D:\AAA - Visual Studio\Heranca\Heranca\obj\Debug\net6.0\Heranca.pdb
 D:\AAA - Visual Studio\Heranca\Heranca\obj\Debug\net6.0\Heranca.genruntimeconfig.cache
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\Heranca.csproj.AssemblyReference.cache
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\Heranca.AssemblyInfoInputs.cache
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\Heranca.AssemblyInfo.cs
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\Heranca.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\Heranca.dll
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\ref\Heranca.dll
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\Heranca.pdb
+G:\Visual Studio\Heranca\Heranca\bin\Debug\net6.0\Heranca.exe
+G:\Visual Studio\Heranca\Heranca\bin\Debug\net6.0\Heranca.deps.json
+G:\Visual Studio\Heranca\Heranca\bin\Debug\net6.0\Heranca.runtimeconfig.json
+G:\Visual Studio\Heranca\Heranca\bin\Debug\net6.0\Heranca.dll
+G:\Visual Studio\Heranca\Heranca\bin\Debug\net6.0\ref\Heranca.dll
+G:\Visual Studio\Heranca\Heranca\bin\Debug\net6.0\Heranca.pdb
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\Heranca.genruntimeconfig.cache

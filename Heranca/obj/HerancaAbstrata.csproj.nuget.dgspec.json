@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Visual Studio\\Heranca\\Heranca\\Heranca.csproj": {}
+    "G:\\Visual Studio\\Heranca\\Heranca\\HerancaAbstrata.csproj": {}
   },
   "projects": {
-    "G:\\Visual Studio\\Heranca\\Heranca\\Heranca.csproj": {
+    "G:\\Visual Studio\\Heranca\\Heranca\\HerancaAbstrata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Visual Studio\\Heranca\\Heranca\\Heranca.csproj",
-        "projectName": "Heranca",
-        "projectPath": "G:\\Visual Studio\\Heranca\\Heranca\\Heranca.csproj",
+        "projectUniqueName": "G:\\Visual Studio\\Heranca\\Heranca\\HerancaAbstrata.csproj",
+        "projectName": "HerancaAbstrata",
+        "projectPath": "G:\\Visual Studio\\Heranca\\Heranca\\HerancaAbstrata.csproj",
         "packagesPath": "C:\\Users\\Note Alex\\.nuget\\packages\\",
         "outputPath": "G:\\Visual Studio\\Heranca\\Heranca\\obj\\",
         "projectStyle": "PackageReference",

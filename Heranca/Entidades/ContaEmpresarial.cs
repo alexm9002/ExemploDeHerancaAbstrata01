@@ -1,4 +1,4 @@
-﻿namespace Heranca.Entidades {
+﻿namespace HerancaAbstrata.Entidades {
 
     // Subclasse herda campos da classe principal e acrescenta apenas os campos novos na nova classe
     internal class ContaEmpresarial : Conta {
@@ -24,7 +24,7 @@
         // Usando a implementação "base".
         public override void Saque(double quantia) {
             base.Saque(quantia);
-            Saldo -= 5.0;
+            Saldo -= 2.0;
         }
     }
 }

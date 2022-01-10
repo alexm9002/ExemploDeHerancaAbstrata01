@@ -1,0 +1,15 @@
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\HerancaAbstrata.csproj.AssemblyReference.cache
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\HerancaAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\HerancaAbstrata.AssemblyInfoInputs.cache
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\HerancaAbstrata.AssemblyInfo.cs
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\HerancaAbstrata.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Heranca\Heranca\bin\Debug\net6.0\HerancaAbstrata.exe
+G:\Visual Studio\Heranca\Heranca\bin\Debug\net6.0\HerancaAbstrata.deps.json
+G:\Visual Studio\Heranca\Heranca\bin\Debug\net6.0\HerancaAbstrata.runtimeconfig.json
+G:\Visual Studio\Heranca\Heranca\bin\Debug\net6.0\HerancaAbstrata.dll
+G:\Visual Studio\Heranca\Heranca\bin\Debug\net6.0\ref\HerancaAbstrata.dll
+G:\Visual Studio\Heranca\Heranca\bin\Debug\net6.0\HerancaAbstrata.pdb
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\HerancaAbstrata.dll
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\ref\HerancaAbstrata.dll
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\HerancaAbstrata.pdb
+G:\Visual Studio\Heranca\Heranca\obj\Debug\net6.0\HerancaAbstrata.genruntimeconfig.cache
