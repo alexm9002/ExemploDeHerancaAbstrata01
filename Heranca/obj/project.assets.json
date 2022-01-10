@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Visual Studio\\Heranca\\Heranca\\HerancaAbstrata.csproj",
+      "projectUniqueName": "G:\\Visual Studio\\HerancaAbstrata\\Heranca\\HerancaAbstrata.csproj",
       "projectName": "HerancaAbstrata",
-      "projectPath": "G:\\Visual Studio\\Heranca\\Heranca\\HerancaAbstrata.csproj",
+      "projectPath": "G:\\Visual Studio\\HerancaAbstrata\\Heranca\\HerancaAbstrata.csproj",
       "packagesPath": "C:\\Users\\Note Alex\\.nuget\\packages\\",
-      "outputPath": "G:\\Visual Studio\\Heranca\\Heranca\\obj\\",
+      "outputPath": "G:\\Visual Studio\\HerancaAbstrata\\Heranca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
