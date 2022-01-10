@@ -1,6 +1,6 @@
 ﻿namespace HerancaAbstrata.Entidades
 {
-    class Conta
+    abstract class Conta
     {
         public int Numero { get; private set; }
         public string Titular { get; private set; }

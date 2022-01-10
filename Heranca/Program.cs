@@ -38,7 +38,7 @@ namespace HerancaAbstrata {
                 soma += acc.Saldo;
             }
 
-            Console.WriteLine("Total de Saldos: " + soma.ToString("F2", CultureInfo.InvariantCulture));
+           //Console.WriteLine("Total de Saldos: " + soma.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
